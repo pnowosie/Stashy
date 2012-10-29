@@ -1,5 +1,5 @@
 
-This is a for from http://stashy.codeplex.com/
+This is a fork from [CodePlex] (http://stashy.codeplex.com/)
 
 Stash data simply.
 ==================
@@ -11,8 +11,8 @@ Stashy is a tiny interface, plus four reference implementations, for adding data
 Drop a single stashy class into your application then you can save and load the lot.
 How to use Stashy
 
-Download and run the sample MVC3 app, to get a feel for what it does.
-Or grab one of the implementations and drop it into your own application.
+As a sample of using Stashy command-line key-value store called 'kv' is presented. See [kv readme] (/README-kv.md) for details.
+Or just grab one of the implementations and drop it into your own application.
 Then you can save, load, delete or query for your own types. No db needed.
 How to implement your own Stash
 
