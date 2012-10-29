@@ -1,25 +1,25 @@
 Project is forked from [CodePlex hg repo] (http://kv.codeplex.com/)
 
->Kv -?
+__Kv -?__
 
 kv -- a command-line key-value store integrated with the clipboard.
 inspired by: https://github.com/stevenleeg/boo
 
 usage:
 
-_kv name fred smith_
+__kv name fred smith__
 saves the the value, 'fred smith' under the key, 'name'
 
-_kv name_
+__kv name__
 retrieve the value 'fred smith' straight to your clipboard.
 
-_kv_
+__kv__
 lists all keys
 
-_kv h*_ 
+__kv h*__ 
 lists all keys that match the pattern 'h*'
 
-_kv -r name_
+__kv -r name__
 will remove the key ‘name’ (and its value) from your store
 
 You can also pipe a value in, e.g.
