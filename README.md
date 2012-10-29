@@ -11,7 +11,7 @@ Stashy is a tiny interface, plus four reference implementations, for adding data
 Drop a single stashy class into your application then you can save and load the lot.
 How to use Stashy
 
-As a sample of using Stashy command-line key-value store called 'kv' is presented. See [kv readme] (/README-kv.md) for details.
+As a sample of using Stashy command-line key-value store called 'kv' is presented. See [/README-kv.md] (https://github.com/pnowosie/Stashy/blob/master/README-kv.md) for details.
 Or just grab one of the implementations and drop it into your own application.
 Then you can save, load, delete or query for your own types. No db needed.
 How to implement your own Stash
